@@ -404,7 +404,11 @@ PrefabInstance:
         Chase Mini Game.
 
 
-        1.8.1 Fixed Some Bugs.'
+        1.8.1 Fixed Some Bugs.
+
+
+        1.8.2 Added Better
+        Backgrounds.'
       objectReference: {fileID: 0}
     - target: {fileID: 11470692, guid: e736466e9ae79c04cb15175e5833d252, type: 3}
       propertyPath: m_FontData.m_Font

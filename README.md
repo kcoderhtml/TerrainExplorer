@@ -38,7 +38,7 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](images/terrainexplorerbackgrounds2.png)
 
 I always wanted to make a game so i decided to make this one enjoy!
 

@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Kcoderhtml/TerrainExplorer">
-    <img src="images/terrainexplorerlogo.svg" alt="Logo" width="400" height="400">
+    <img src="https://github.com/kcoderhtml/TerrainExplorer/blob/master/images/terrainexplorerlogo.svg" alt="Logo" width="350" height="350">
   </a>
 
   <h3 align="center">Terrain Explorer</h3>

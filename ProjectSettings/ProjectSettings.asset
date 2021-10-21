@@ -692,7 +692,7 @@ PlayerSettings:
     Analytics: 1
     Build: 0
     Collab: 0
-    Game Performance: 0
+    Game Performance: 1
     Purchasing: 0
     UDP: 0
     UNet: 1

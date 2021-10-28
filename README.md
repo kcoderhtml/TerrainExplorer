@@ -28,7 +28,6 @@
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
@@ -49,10 +48,6 @@ This was built with Unity3d.
 ## Getting Started
 
 This is instructions on setting up your project locally.
-
-### Prerequisites
-
-None.
 
 ### Installation
 
@@ -88,7 +83,7 @@ Terrain Explorer © 2021 by Kieran Klukas (kcoderhtml) is licensed under [CC BY-
 
 ## Authors
 
-* **KCoderhtml** - *Middle School Student* - [KCoderhtml](https://github.com/kcoderhtml) - *Started Project.*
+* **KCoderhtml** - *Middle School Student*
 
 ## Acknowledgements
 

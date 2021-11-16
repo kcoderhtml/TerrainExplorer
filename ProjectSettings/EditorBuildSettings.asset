@@ -15,9 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Terrain1-notrees.unity
     guid: 71973e54954be32cb948d9e2840b9ff6
   - enabled: 1
-    path: Assets/Scenes/Chase.unity
+    path: Assets/Scenes/PoliceChase.unity
     guid: f06a3e79b5635e3b88d84a8b81a4fc27
   - enabled: 1
-    path: Assets/levellocker/Scenes/LevelMenu.unity
-    guid: 8a02dce03e8176047bfb9cd026f622b2
+    path: Assets/race-track-lake/LakesideRaceway.unity
+    guid: 2e1336748f3797f4798cf9e588e2620f
   m_configObjects: {}

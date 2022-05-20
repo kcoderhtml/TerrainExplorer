@@ -7,59 +7,32 @@
   <h3 align="center">Terrain Explorer</h3>
 
   <p align="center">
-    An Awesome game created in Unity 3d for me and my friends!
+    A game created in Unity 3d for me and my friends!
     <br/>
     <br/>
-    <a href="https://github.com/Kcoderhtml/TerrainExplorer"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/Kcoderhtml/TerrainExplorer">View Demo</a>
-    .
     <a href="https://github.com/Kcoderhtml/TerrainExplorer/issues">Report Bug</a>
     .
     <a href="https://github.com/Kcoderhtml/TerrainExplorer/issues">Request Feature</a>
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/Kcoderhtml/TerrainExplorer/total) ![Contributors](https://img.shields.io/github/contributors/Kcoderhtml/TerrainExplorer?color=dark-green) ![Forks](https://img.shields.io/github/forks/Kcoderhtml/TerrainExplorer?style=social) ![Issues](https://img.shields.io/github/issues/Kcoderhtml/TerrainExplorer)
-
+  <p align="center">
+    <img src="https://img.shields.io/github/downloads/Kcoderhtml/TerrainExplorer/total"> 
+    <img src="https://img.shields.io/github/contributors/Kcoderhtml/TerrainExplorer?color=dark-green"> <img src="https://img.shields.io/github/forks/Kcoderhtml/TerrainExplorer?style=social"> 
+    <img src="https://img.shields.io/github/issues/Kcoderhtml/TerrainExplorer">
+  </p>
+  
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-* [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Installation](#installation)
-* [Usage](#usage)
 * [Contributing](#contributing)
 * [License](#license)
-* [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
 ![Screen Shot](images/terrainexplorerbackgrounds2.png)
 
 I always wanted to make a game so i decided to make this one enjoy!
-
-## Built With
-
-This was built with Unity3d.
-
-## Getting Started
-
-This is instructions on setting up your project locally.
-
-### Installation
-
-1. Download.
-
-2. Make Executable.
-
-3. Play!
-
-## Usage
-
-You can use this project to play Terrain Explorer.
 
 ## Contributing
 
@@ -79,12 +52,4 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Terrain Explorer © 2021 by Kieran Klukas (kcoderhtml) is licensed under [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) 4.0. See [LICENSE](https://github.com/Kcoderhtml/TerrainExplorer/blob/master/LICENSE.md) for more information.
-
-## Authors
-
-* **KCoderhtml** - *Middle School Student*
-
-## Acknowledgements
-
-* [KCoderhtml](https://github.com/kcoderhtml/)
+Terrain Explorer © 2021 by Kieran Klukas (kcoderhtml) is licensed under [MIT](https://mit-license.org/) 4.0. See [LICENSE](https://github.com/Kcoderhtml/TerrainExplorer/blob/master/LICENSE.md) for more information.
